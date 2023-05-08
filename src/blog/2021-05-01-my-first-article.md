@@ -1,11 +1,13 @@
 ---
 title: Les dates avec Luxon
-author: Kevin Powell
+description: Luxon est déja inclus dans Eleventy
+author: François Leghima
 date: 2021-05-01
-tags: ["post", "featured"]
+tags:
+  - post
+  - featured
 image: /assets/blog/article-1.jpg
 imageAlt: À propos de Luxon
-description: Luxon est déja inclus dans Eleventy
 ---
 
 Si le nom de l'article commence par sa date de publication, 11ty est capable de l'extraire. En procédant ainsi, il est possible d'appeller :
