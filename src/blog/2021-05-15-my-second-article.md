@@ -1,11 +1,8 @@
 ---
-title: My Second Article
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
-  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
-  aliquam?
+title: Mon second article
+description: La description de mon second article
 author: Cisco
-date: 2021-05-15
+date: 2023-05-09T07:35:06.637Z
 tags:
   - post
   - featured
